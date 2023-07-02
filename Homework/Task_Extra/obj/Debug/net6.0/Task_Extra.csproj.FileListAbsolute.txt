@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\bin\Debug\net6.0\Task_Extra.exe
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\bin\Debug\net6.0\Task_Extra.deps.json
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\bin\Debug\net6.0\Task_Extra.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\bin\Debug\net6.0\Task_Extra.dll
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\bin\Debug\net6.0\Task_Extra.pdb
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.dll
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\refint\Task_Extra.dll
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.pdb
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\Task_Extra.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_Extra\obj\Debug\net6.0\ref\Task_Extra.dll
