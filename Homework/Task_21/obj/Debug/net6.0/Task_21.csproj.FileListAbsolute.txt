@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\bin\Debug\net6.0\Task_21.exe
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\bin\Debug\net6.0\Task_21.deps.json
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\bin\Debug\net6.0\Task_21.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\bin\Debug\net6.0\Task_21.dll
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\bin\Debug\net6.0\Task_21.pdb
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.dll
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\refint\Task_21.dll
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.pdb
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\Task_21.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Sem_3\Homework\Task_21\obj\Debug\net6.0\ref\Task_21.dll
